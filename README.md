@@ -10,6 +10,6 @@
 <!--div style="display:flex; flex-direction:row;">
   <img src="https://sundain.com/_app/immutable/assets/appicon.DgZ8lU9g.png" width="100px"/>
   <h2 align="left">My Main Project: <a href="https://sundain.com" target="_blank">sundain.com</a></h2>
+  It basically learns the user and introduces people to each other pretty cool social app!!!
 </div-->
 
-It basically learns the user and introduces people to each other pretty cool social app!!!
